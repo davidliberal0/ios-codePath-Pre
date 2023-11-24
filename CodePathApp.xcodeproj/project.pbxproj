@@ -41,6 +41,7 @@
 		1CC1600D2B10FF09008015EC = {
 			isa = PBXGroup;
 			children = (
+				1CC1602D2B110FD4008015EC /* README.md */,
 				1CC160182B10FF09008015EC /* CodePathApp */,
 				1CC160172B10FF09008015EC /* Products */,
 			);
@@ -64,7 +65,6 @@
 				1CC160222B10FF0B008015EC /* Assets.xcassets */,
 				1CC160242B10FF0B008015EC /* LaunchScreen.storyboard */,
 				1CC160272B10FF0B008015EC /* Info.plist */,
-				1CC1602D2B110FD4008015EC /* README.md */,
 			);
 			path = CodePathApp;
 			sourceTree = "<group>";
