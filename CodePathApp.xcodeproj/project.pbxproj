@@ -24,6 +24,7 @@
 		1CC160222B10FF0B008015EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1CC160252B10FF0B008015EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1CC160272B10FF0B008015EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1CC1602D2B110FD4008015EC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				1CC160222B10FF0B008015EC /* Assets.xcassets */,
 				1CC160242B10FF0B008015EC /* LaunchScreen.storyboard */,
 				1CC160272B10FF0B008015EC /* Info.plist */,
+				1CC1602D2B110FD4008015EC /* README.md */,
 			);
 			path = CodePathApp;
 			sourceTree = "<group>";
